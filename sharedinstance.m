@@ -13,5 +13,5 @@
         _sharedInstance = [self ];
     });
     
-    return _shared<#name#>;
+    return _sharedInstance;
 }
