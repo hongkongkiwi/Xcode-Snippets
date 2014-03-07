@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
 -(id) initWith<#Object#>:(<#Object> *) object {
     if (self = [self init]) {
-        self.object = <#object#>;
+        self.<#object#> = <#object#>;
     }
     return self;
 }
