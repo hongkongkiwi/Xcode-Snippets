@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
--(id) initWith<#Object#>:(MipRobot *) mip {
+-(id) initWith<#Object#>:(<#Object> *) mip {
     if (self = [self init]) {
         self.mip = mip;
     }
