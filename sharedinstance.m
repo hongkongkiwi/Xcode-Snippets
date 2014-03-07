@@ -10,7 +10,7 @@
     static <#class#> *_sharedInstance = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        _sharedInstance = [<#class> alloc];
+        _sharedInstance = [[<#class#> alloc] init];
     });
     
     return _sharedInstance;
