@@ -1,6 +1,7 @@
 // Enum : NSUInteger
 // 
 //
+// IDECodeSnippetCompletionPrefix: typedef
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 152788B3-61D7-4A2F-B180-5E634538FB50
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
