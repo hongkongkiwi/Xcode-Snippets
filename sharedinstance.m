@@ -7,7 +7,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 + (instancetype)sharedInstance {
-    static <#class#> *_shared<#name#> = nil;
+    static <#class#> *_sharedInstance = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         _shared<#name#> = <#initializer#>;
