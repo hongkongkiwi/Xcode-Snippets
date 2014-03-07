@@ -1,5 +1,5 @@
 // sharedInstance
-// Singleton declaration
+// Class method that returns a singleton instance
 //
 // IDECodeSnippetCompletionPrefix: sharedInstance
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
