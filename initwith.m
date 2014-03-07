@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
--(id) initWith<#Object#>:(<#Object#> *) object {
+-(id) initWith<#Object#>:(<#Object#> *) <#object#> {
     if (self = [self init]) {
         self.<#object#> = <#object#>;
     }
