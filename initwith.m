@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
 -(id) initWith<#Object#>:(<#Object> *) object {
     if (self = [self init]) {
-        self.mip = mip;
+        self.object = o;
     }
     return self;
 }
